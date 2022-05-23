@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/elankovan-amepay/mmc_web/main/client_review.json
