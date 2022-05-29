@@ -1,0 +1,27 @@
+[
+  {
+    "icon": "assets/icons/company_creation.png",
+    "title": "Company Creation",
+    "subtitle": "We do register a company for you and also provide serives based on your requirements and needs. this is description"
+  },{
+  "icon": "assets/icons/compliance.png",
+  "title": "Compliance",
+  "subtitle": "We do register a company for you and also provide serives based on your requirements and needs. this is description"
+},{
+  "icon": "assets/icons/reistration.png",
+  "title": "Registration",
+  "subtitle": "We do register a company for you and also provide serives based on your requirements and needs. this is description"
+},{
+  "icon": "assets/icons/filing.png",
+  "title": "Filings",
+  "subtitle": "We do register a company for you and also provide serives based on your requirements and needs. this is description"
+},{
+  "icon": "assets/icons/payroll.png",
+  "title": "Payroll & HR",
+  "subtitle": "We do register a company for you and also provide serives based on your requirements and needs. this is description"
+},{
+  "icon": "assets/icons/corporate_filing.png",
+  "title": "Corporate Filings",
+  "subtitle": "We do register a company for you and also provide serives based on your requirements and needs. this is description"
+}
+]

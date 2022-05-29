@@ -1,1 +1,3 @@
 https://raw.githubusercontent.com/elankovan-amepay/mmc_web/main/client_review.json
+
+https://raw.githubusercontent.com/elankovan-amepay/mmc_web/main/services_offered.json
