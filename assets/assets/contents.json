@@ -1,0 +1,55 @@
+{
+  "settings": {
+    "logo":"https://raw.githubusercontent.com/ilailabs/mmc_assets/main/million_logo.png",
+    "logoAlignLeft": true,
+    "mobileViewIfLessThan": 650,
+    "bgColor": "#FFFFFF",
+    "primaryColor": "#03045e",
+    "primaryAccentColor": "#f77f00",
+    "textColor": "#050505"
+  },
+  "menuPages": [
+    {
+      "buttonName": "Home",
+      "buttonDecoration": "Outlined",
+      "containers": [
+        {
+          "title1": "Compliance Issue",
+          "title2": "We Will Track For You",
+          "text1":"Our team can track the compliance issues for your business, get in touch with us and get started",
+          "image1": "https://raw.githubusercontent.com/ilailabs/mmc_assets/main/home_page_image_one.png"
+        },
+        {
+          "title1": "ABOUT US",
+          "title2": "MILLION MANAGEMENT CONSULTING SERVICES PRIVATE LIMITED",
+          "text1": "Management consultants help organisations to solve issues, create value, maximise growth and improve business performance. They use their business skills to provide objective advice and expertise, and help an organisation to develop any specialist skills that it may be lacking.\n\nYou'll be concerned primarily with the strategy, structure, management and operations of a company. Your role is to identify options for the organisation and suggest recommendations for change, as well as advising on additional resources to implement solutions.",
+          "button1": "Read More About Us",
+          "popUp1": "abc.md",
+          "image1": "...",
+          "text2": "Our Office\nChennai"
+        },
+        {
+          "title1": "SERVICES WE ARE PROVIDING",
+          "services": [
+            {
+              "icon1": "...",
+              "title1": "...",
+              "text1": "..."
+            }
+          ]
+        }
+      ]
+    },{},{},{},{},{},{}
+  ],
+  "page1":"Home",
+  "page2":"Who We Are",
+  "page3":"What We Do",
+  "page4":"Work With Us",
+  "page5":"Our Team",
+  "page6":"Speak With Us",
+  "page7":"Get Started",
+  "headerTitle1":"Compliance Issue",
+  "headerTitle2":"We Will Track For You",
+  "headerText":"Our team can track the compliance issues for your business, get in touch with us and get started",
+  "headerBgColor":""
+}
